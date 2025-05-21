@@ -4,7 +4,7 @@
 
 ---
 
-## Total Database Summary
+### Database Overview
 
 A high-level view of the entire BookShelf database including books, authors, genres, tags, and publishers.
 
