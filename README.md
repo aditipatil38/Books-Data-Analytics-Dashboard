@@ -90,4 +90,6 @@ Evaluate their contributions across various genres and themes to gain insights i
 
 ---
 
+This project is licensed under the [Creative Commons License](LICENSE).
+
 ---
